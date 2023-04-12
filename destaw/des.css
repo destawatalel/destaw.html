@@ -1,0 +1,52 @@
+.logo{
+    background-color: blueviolet;
+    text-align: center;
+    color: aliceblue;
+    height: 50%;
+}
+.navbar{
+    padding: 25px;
+    padding-left: 20px;
+background-color: chartreuse;
+width: 100%;
+text-align: center;
+padding-top: 3px;
+padding-bottom: 3px;
+}
+li{
+    display: inline-block;
+    padding: 25px;
+    padding-right: 20px;
+    background-color: chartreuse;
+   color: azure;
+}
+.footer{
+bottom: 0px;
+background-color: deepskyblue;
+color: azure;
+text-align: center;
+padding-bottom:0px;
+position: absolute;
+width: 100%;
+padding-bottom: 0px;
+height: 50;
+}
+.background{
+    background-color: blueviolet;
+    height: 30%;
+}
+.di{
+    background-color: crimson;
+    height: 50%;
+    float: left;
+    height:350px;
+    width: 50%;
+
+}
+.ci{
+    background-color: goldenrod;
+    float: right;
+    height: 387px;
+    width: 50%;
+    
+}
